@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1663015965 source:c:\users\joaquina\desktop\utn 2c\lab 2\poo\tp6\klosdemy\main.cpp
+	<iostream>
+	"Alumno.h"
+	"Profesor.h"
+	"Curso.h"
+
+1663072902 source:c:\users\joaquina\desktop\utn 2c\lab 2\poo\tp6\klosdemy\curso.cpp
+	"Curso.h"
+	<iostream>
+
+1663072896 c:\users\joaquina\desktop\utn 2c\lab 2\poo\tp6\klosdemy\curso.h
+	"Profesor.h"
+	"Alumno.h"
+	<string>
+
+1662999236 source:c:\users\joaquina\desktop\utn 2c\lab 2\poo\tp6\klosdemy\alumno.cpp
+	"Alumno.h"
+	<iostream>
+
+1662999177 c:\users\joaquina\desktop\utn 2c\lab 2\poo\tp6\klosdemy\alumno.h
+	"Persona.h"
+
+1662994569 c:\users\joaquina\desktop\utn 2c\lab 2\poo\tp6\klosdemy\persona.h
+	<string>
+
+1662998838 source:c:\users\joaquina\desktop\utn 2c\lab 2\poo\tp6\klosdemy\persona.cpp
+	<iostream>
+	"Persona.h"
+
+1663008564 source:c:\users\joaquina\desktop\utn 2c\lab 2\poo\tp6\klosdemy\profesor.cpp
+	"Profesor.h"
+	<iostream>
+
+1662994380 c:\users\joaquina\desktop\utn 2c\lab 2\poo\tp6\klosdemy\profesor.h
+	"Persona.h"
+
